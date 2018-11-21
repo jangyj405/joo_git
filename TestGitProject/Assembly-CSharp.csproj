@@ -51,6 +51,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Test2.cs" />
      <Compile Include="Assets\TestScripts.cs" />
  <Reference Include="Facebook.Unity.Settings">
  <HintPath>C:/joo_git/joo/TestGitProject/Library/FacebookSDK/Facebook.Unity.Settings.dll</HintPath>
